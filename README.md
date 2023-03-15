@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VedantGonnade
-- 👀 I’m interested in software development, data analysis, and image analysis
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in cloud software development, data analysis.
 - 📫 How to reach me: vedantgonnade@outlook.com
 
 <!---
