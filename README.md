@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @VedantGonnade
-- 👀 I’m interested in cloud software development, data analysis.
+- 👋 Hi, I’m VedantGonnade
+- 👀 I’m interested in cloud software development, web application development & data analysis.
 - 📫 How to reach me: vedantgonnade@outlook.com
 
 <!---
